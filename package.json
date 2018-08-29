@@ -1,0 +1,21 @@
+{
+  "name": "curso-html-email",
+  "version": "1.0.0",
+  "description": "El email no funciona como pagina web\r y la web no funciona como email.",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server \".\" --files \"**/*.*\" --no-inject-changes",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseChirinos/curso-html-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseChirinos/curso-html-email/issues"
+  },
+  "homepage": "https://github.com/JoseChirinos/curso-html-email#readme"
+}
